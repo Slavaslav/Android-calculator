@@ -1,4 +1,4 @@
-package com.slava.calc;
+package com.calculator.android_calculator;
 
 import java.util.LinkedList;
 
